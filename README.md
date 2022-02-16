@@ -6,7 +6,7 @@ Hi I'm `Safira Salsabila`,I’m `17 years old` a novice programmer who is studyi
 
 ### Stats:
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>What i am learning on these days</strong></summary>
     - 🔭 I’m currently studying at SMK Telkom Malang </br>
     - 🌱 I’m currently learning Node.js </br>
     - 💬 Ask me about anything.</br>
