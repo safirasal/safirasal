@@ -5,8 +5,8 @@ Hi I'm `Safira Salsabila`,I’m `17 years old` a novice programmer who is studyi
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently studying at **SMK Telkom Malang** </br>
-    - 🌱 I’m currently learning **Node.js** </br>
+    - 🔭 I’m currently studying at SMK Telkom Malang </br>
+    - 🌱 I’m currently learning Node.js </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="safira_salsabila_29rpl@student.smktelkom-mlg.sch.id">Email me!</a>  </br>
     - 😄 Pronouns: She/Her </br>
