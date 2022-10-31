@@ -6,7 +6,7 @@ Hi I'm `Safira Salsabila`,I’m `17 years old` a novice programmer who is studyi
 ### Stats:
 <details>
  <summary><strong>What i am learning on these days</strong></summary>
-    - 🔭 I’m currently studying at SMK Telkom Malang </br>
+    - 🔭 I’m currently studying at Telkom Vocational High School Malang </br>
     - 🌱 I’m currently learning Node.js </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="sfrslsbila.bramanti@gmail.com">Email me!</a>  </br>
@@ -21,7 +21,7 @@ Hi I'm `Safira Salsabila`,I’m `17 years old` a novice programmer who is studyi
 
 
 [<img align="left" alt="https://github.com/safirasal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="safirasalc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="safirasalv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="https://www.linkedin.com/in/safira-salsabila-bramanti | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -41,6 +41,6 @@ Hi I'm `Safira Salsabila`,I’m `17 years old` a novice programmer who is studyi
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/safirasalc/
+[instagram]: https://www.instagram.com/safirasalv/
 [website]: https://github.com/safirasal
 [linkedin]: https://www.linkedin.com/in/safira-salsabila-bramanti
